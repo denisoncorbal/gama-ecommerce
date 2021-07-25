@@ -1,3 +1,17 @@
+# Hiring-Coders
+Segundo desafio do curso Hiring-Coders - Gama Academy
+## Desafio
+Criação de um sistema e-commerce para inventário de produtos e dados de clientes:
+- Estruturação de dados de clientes, endereços e produtos
+- Gravação de dados em localstorage
+- Código fonte no github com descrição das funcionalidades
+## Resultado
+Código desenvolvido em React consistindo em uma página inicial com quatro botões que acessam as quatro funcionalidades desenvolvidas sendo:
+- Uma tela para cadastro de produtos
+- Uma tela para cadastro de clientes
+- Uma tela para listar todos os produtos cadastrados
+- Uma tela para listar todos os clientes cadastrados
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
